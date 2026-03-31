@@ -1,0 +1,10 @@
+"}
+- Never share OTP or PIN with anyone
+- Do not approve unknown payment requests
+- Always verify the sender before payment
+- Use only official payment apps
+- Enable screen lock and app lock
+- Avoid using public WiFi for transactions
+- Regularly check bank statements
+- Immediately report fraud on cybercrime.gov.in
+- Call helpline 1930 in case of fra

@@ -1,0 +1,9 @@
+UPI fraud is a common cybercrime where users are tricked into approving fake payment requests. Fraudsters often pretend to be buyers, sellers, or bank officials and send a “collect request” on apps like Google Pay or PhonePe.
+
+Many users think they are receiving money and approve the request without checking carefully. Instead of receiving money, they end up sending it.
+
+Students and elderly people are common targets because they may not fully understand how digital payments work.
+
+The consequences include financial loss, stress, and risk of personal data misuse. In many cases, recovering money becomes difficult if the fraud is not reported immediately.
+
+This shows the importance of being aware and cautious while using online payment systems.
